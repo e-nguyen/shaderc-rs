@@ -6,6 +6,11 @@ shaderc-rs
 [![Build Status](https://travis-ci.org/google/shaderc-rs.svg?branch=master)](https://travis-ci.org/google/shaderc-rs)
 [![Build status](https://ci.appveyor.com/api/projects/status/3la8yk6cgkh4jhu3/branch/master?svg=true)](https://ci.appveyor.com/project/antiagainst/shaderc-rs/branch/master)
 
+Notice!
+-------
+
+This package was recently split at version 0.4 to create a new sys crate and lib crate.  Author makes no claims to copyright and has preserved history where possible to aid further maintenance.
+
 Rust bindings for the [shaderc][shaderc] library.
 
 ### Disclaimer
